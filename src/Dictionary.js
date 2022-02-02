@@ -1,5 +1,11 @@
 import react from "react";
 
 export default function Dictionary(){
-    return "Hello from Dictionary"
+    return (
+        <div className="Dictionary">
+            <form>
+                <input type="search"/>
+            </form>
+        </div>
+    );
 }
