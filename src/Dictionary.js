@@ -9,8 +9,8 @@ export default function Dictionary(){
    
     return (
         <div className="Dictionary">
-            <form>
-                <input type="search" autoFocus={true}/>
+            <form onSubmit={search}>
+                <input type="search" />
             </form>
         </div>
     );
