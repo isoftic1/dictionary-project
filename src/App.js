@@ -9,7 +9,7 @@ function App() {
 
       </header>
       <main>
-        <Dictionary />
+        <Dictionary/>
         </main>
         <footer className="text-center"> Coded by Izeta Softic
         
