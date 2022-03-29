@@ -1,7 +1,7 @@
 {
     "editor.fontSize": 18,
-    "workbench.colorTheme": "Kimbie Dark",
     "workbench.preferredDarkColorTheme": "Kimbie Dark",
     "window.autoDetectColorScheme": true,
-    "workbench.preferredLightColorTheme": "Visual Studio Dark"
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Monokai Dimmed"
 }
