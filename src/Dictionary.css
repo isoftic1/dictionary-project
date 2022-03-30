@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #000;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif !important;
+    color: var(--secondary-color);
+    font-size: 2rem;
+    font-weight: 700;
+}
+.btn {
+    background-color: var(--main-color) !important;
+    color: #000 !important;
+}
+.btn:hover {
+    background-color:var(--text-color)!important;
+    border: 1px solid var(--main-color) !important;
+    color: #fff !important;
+}
+.suggestions {
+    font-style: italic;
+    font-size: .8rem;
+    color: var(--text-color);
+    padding-top: 5px;
+}
