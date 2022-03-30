@@ -1,0 +1,20 @@
+h3 {
+    
+    font-weight: 600;
+
+}
+.definition {
+    font-weight: 400;
+}
+.examples {
+      font-style: italic;
+      font-size: .9rem;
+      font-weight: 300;
+      color: var(--text-color);
+
+}
+.phonetic-text {
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
