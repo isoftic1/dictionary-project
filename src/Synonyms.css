@@ -1,0 +1,17 @@
+ul {
+    padding: 0px;
+}
+li {
+    list-style-type: none;
+    color: var(--text-color);
+}
+li:first-child::before {
+    content: "Similar: ";
+
+}
+li::after {
+    content: ", ";
+}
+li:last-child::after {
+    content: "";
+}
